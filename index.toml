@@ -309,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/emf-compat-core.pw.toml"
-hash = "5555883fc0a729e59400db0e21ad9879f55d1416b284435253e6be88ee913e63"
+hash = "6187d58d86a89aca9d44a4ee00e6a10be8c790c3a8e95074a3010982b6097fd7"
 metafile = true
 
 [[files]]
@@ -339,7 +339,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "c875585a3269432ba23b379665cb287bd88517c7dbc1a22d0b5df9294f0a2ba4"
+hash = "8b954d8baf312e42fbe5b324f966935201648d149a113474170892a7d4c160a6"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-fabric.pw.toml"
+hash = "046203bd6d64b3545af0b191c90492d9bce13c788aacdded3e6d062667cf77e2"
 metafile = true
 
 [[files]]
@@ -900,6 +905,11 @@ metafile = true
 [[files]]
 file = "mods/the-forgotten-man.pw.toml"
 hash = "1932330ba30f933e08e02894380be930d8a61b0546ea72587a4dab58b3a9151d"
+metafile = true
+
+[[files]]
+file = "mods/touch-and-motion.pw.toml"
+hash = "0e6d8a62f8e43f5c8375fcd0bf68f91569c67a85e96839fe0e3f7a8cacb97028"
 metafile = true
 
 [[files]]
