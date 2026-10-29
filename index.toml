@@ -249,11 +249,6 @@ hash = "e9077163c023577cb6a75c826ab59322ea254f79c14377acf65fdace67145253"
 metafile = true
 
 [[files]]
-file = "mods/create-jei-compat.pw.toml"
-hash = "0bfe281ddfbe98454d57fb2227962065796717739d81a912a075b0c8df232c6b"
-metafile = true
-
-[[files]]
 file = "mods/create-propulsion-simulated.pw.toml"
 hash = "f82cdd570cb4f6bd9b87a6a30c5e5ecc23125dfcecc715d4950a17301de8c58a"
 metafile = true
