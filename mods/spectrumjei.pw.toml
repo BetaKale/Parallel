@@ -1,0 +1,13 @@
+name = "SpectrumJEI"
+filename = "SpectrumJEI-21.1.11.1+neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8FtYXJhp/versions/yI2fJc4f/SpectrumJEI-21.1.11.1%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "877e2e66a0d80638b79f1a4be208de587ce8facff3a2016e5e22d05f5562d0913396f75b3aa435edc3e6cb2d6c7d95c05c40766911a9158bd242fb31ebfdc8fc"
+
+[update]
+[update.modrinth]
+mod-id = "8FtYXJhp"
+version = "yI2fJc4f"

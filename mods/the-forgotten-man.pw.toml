@@ -1,0 +1,13 @@
+name = "The Forgotten Man"
+filename = "forgottenman-1.21.1-neoforge-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4L79Xhky/versions/KAvh6q82/forgottenman-1.21.1-neoforge-1.2.0.jar"
+hash-format = "sha512"
+hash = "e2e666eced311d44370fb4d65a284144033bc81a96292dc90b3d289d3e695ef3a977067964a5ba182c261f23a1d4aaf3ecdf98cbd1871a0237fc2af5b887d8ec"
+
+[update]
+[update.modrinth]
+mod-id = "4L79Xhky"
+version = "KAvh6q82"
