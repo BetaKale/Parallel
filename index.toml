@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "jars/hexcasting-neoforge-1.21.1-0.12.0-devel-pre-53.jar"
+hash = "5363e5697a4a63599c80f6a40ae259ce6347e6a2590ed59307da5f0edded2d72"
+
+[[files]]
 file = "mods/accents.pw.toml"
 hash = "fe28fe65eb4df0022e6fba1173aae40bb042432c8b87bbcb33ad0cfa0999083a"
 metafile = true
@@ -413,6 +417,11 @@ metafile = true
 [[files]]
 file = "mods/gnetum.pw.toml"
 hash = "3979402652cc5c5eb7e4b08cecd19e1745832923ebe6679b239bca8864578cb1"
+metafile = true
+
+[[files]]
+file = "mods/hexcasting.pw.toml"
+hash = "514e2638a5575003c0c328a9baf87df0967032321bf876bb38b4b5dc544828f9"
 metafile = true
 
 [[files]]
