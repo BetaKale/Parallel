@@ -5,6 +5,10 @@ file = "jars/hexcasting-neoforge-1.21.1-0.12.0-devel-pre-53.jar"
 hash = "5363e5697a4a63599c80f6a40ae259ce6347e6a2590ed59307da5f0edded2d72"
 
 [[files]]
+file = "jars/paucal-0.7.1-pre-27+1.21.1-neoforge.jar"
+hash = "4be89c91385ffaecb5a0cc405d644dc7387c6f05705630b26df333a226ffae08"
+
+[[files]]
 file = "mods/accents.pw.toml"
 hash = "fe28fe65eb4df0022e6fba1173aae40bb042432c8b87bbcb33ad0cfa0999083a"
 metafile = true
@@ -647,6 +651,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "da1a0f6b3c3fd3150414af04c60ced971878cc05194303a83b026a5f5bf0b4b2"
 metafile = true
 
 [[files]]
