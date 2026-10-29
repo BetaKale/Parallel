@@ -5,6 +5,10 @@ file = "jars/hexcasting-neoforge-1.21.1-0.12.0-devel-pre-53.jar"
 hash = "5363e5697a4a63599c80f6a40ae259ce6347e6a2590ed59307da5f0edded2d72"
 
 [[files]]
+file = "jars/jei-1.21.1-neoforge-19.56.0.441.jar"
+hash = "f8f2d378f6291bb003e7aeb0675917227df5a428aa0842453ec3235d82ad735b"
+
+[[files]]
 file = "jars/paucal-0.7.1-pre-27+1.21.1-neoforge.jar"
 hash = "4be89c91385ffaecb5a0cc405d644dc7387c6f05705630b26df333a226ffae08"
 
@@ -485,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "65f5a4f8bc3e0d3e5eb8ea6229758c068908aa3d052d325f3d9d7852a6b1689c"
+hash = "5a052a2b052bf4d467a149f47e01849f397ea3eb134dd2c5780317252b4c73be"
 metafile = true
 
 [[files]]
