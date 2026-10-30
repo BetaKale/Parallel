@@ -1,0 +1,13 @@
+name = "VortyLib"
+filename = "vortylib-1.2.6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8yPMyGv5/versions/WbTt1Ufx/vortylib-1.2.6.1.jar"
+hash-format = "sha512"
+hash = "6687102a0ebd18fd507f403f7ee6835bd0e3018eb7922de439ea3dcfb46be3d84f3332584267915b12cc0062c325df6bf1c71893ea0f798f305df39d4f4e477d"
+
+[update]
+[update.modrinth]
+mod-id = "8yPMyGv5"
+version = "WbTt1Ufx"

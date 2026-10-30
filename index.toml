@@ -943,8 +943,18 @@ hash = "475a240821a858455d59d6e703a209a18bc24d692b4a2716dc42b46c558ffc83"
 metafile = true
 
 [[files]]
+file = "mods/vortylib.pw.toml"
+hash = "f78d0bb6de1c063935fd9292603ade231d6dc689a9136a5e7fc3403a3f7266c2"
+metafile = true
+
+[[files]]
 file = "mods/wakes-reforged.pw.toml"
 hash = "8e464c45945b7311b01d0be50a714e8a64d389dc27331f4a27d7981fd29131b9"
+metafile = true
+
+[[files]]
+file = "mods/weavers-paradise.pw.toml"
+hash = "8eeb922014848ec3402ecbbe034e9022384683147002b9092ab40fddce3fc9a3"
 metafile = true
 
 [[files]]
