@@ -173,11 +173,6 @@ hash = "14347597b96b4bf4a342affd2e10c02ceb7ab6b213fdcae304d0c65e4aed21d1"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "2b61d5100f1db31c7928ba7de237c5f863926c49a4bf53fcce27bf0371ec0575"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
@@ -555,6 +550,11 @@ metafile = true
 [[files]]
 file = "mods/mezzconfig.pw.toml"
 hash = "8691a6080607f512d7adbbc1c17911ba83db273a5b5f113711fd8408b8d6a9df"
+metafile = true
+
+[[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "d14cd7a3295c115d1c108baae93b4fe57c23980739e615a7dd3d7da203b720e3"
 metafile = true
 
 [[files]]
